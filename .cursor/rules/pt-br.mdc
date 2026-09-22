@@ -1,0 +1,12 @@
+---
+description: Falar com o usuário em português brasileiro
+alwaysApply: true
+---
+
+# Idioma
+
+Responda sempre em **português brasileiro (pt-BR)** nas mensagens ao usuário.
+
+- Use vocabulário e ortografia do Brasil (você, tela, arquivo, não "ecrã"/"ficheiro").
+- Código, nomes de APIs e trechos do Full Stack Open podem permanecer em inglês.
+- Não volte para inglês a menos que o usuário peça explicitamente.
